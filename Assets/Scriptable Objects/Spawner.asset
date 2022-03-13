@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31557cdda3532df4baac44cb85f6d7d5, type: 3}
+  m_Name: Spawner
+  m_EditorClassIdentifier: 
+  spawnPoints:
+  - {fileID: 3560103858993745087, guid: c7ebfe584f727b14d92939dbe9457058, type: 3}
+  - {fileID: 4549630627660004886, guid: 299405ebefaf44343bb2b250a0742129, type: 3}
+  - {fileID: 7227837111226015669, guid: 3c6d8bcea94c2f343b016fa2b0e6b09f, type: 3}
+  - {fileID: 3288938566420148601, guid: 04fab829effcf004f8a0ad866cc38263, type: 3}
+  - {fileID: 1214539647122118878, guid: 1c55ab779836a1948838c70a7997373a, type: 3}
+  - {fileID: 213768124406139152, guid: c6bc08bc08f704e4a8473004f07a085e, type: 3}
+  - {fileID: 981977720624104484, guid: 1c4581be0450c224d9e1bfc8eff021d2, type: 3}
+  - {fileID: 2883916445848204088, guid: 2181a47e51de33a43afb27c16ca81395, type: 3}
+  humanTypes:
+  - {fileID: 8119906016423251661, guid: 570f5d1b04df0ea4899880cc9d2a29cb, type: 3}
+  - {fileID: 5826744472441750280, guid: 381e118f7a9b5a0499d9a85a02de77ad, type: 3}
+  - {fileID: 1308737789385916235, guid: 93eef4e8a01e8c54791ff4998e934be5, type: 3}
+  - {fileID: 1308737789385916235, guid: 80d423fd188619844a3275eb2f4363fd, type: 3}
+  - {fileID: 7941305884391849970, guid: 0bcc0598567ef604ea65691cc44a2372, type: 3}
+  numberOfHumanToSpawn: 1
+  settings: {fileID: 0}
